@@ -1,0 +1,22 @@
+[
+  {
+    "name": "banana",
+    "quantity": 6,
+    "value": 33.76
+  },
+  {
+    "name": "apple",
+    "quantity": 4,
+    "value": 20.83
+  },
+  {
+    "name": "melon",
+    "quantity": 3,
+    "value": 70.77
+  },
+  {
+    "name": "grape",
+    "quantity": 12,
+    "value": 10.51
+  }
+]
