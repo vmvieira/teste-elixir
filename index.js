@@ -29,7 +29,6 @@ const returnMapFunction = (listOfItems, listOfEmails) => {
         accumulator + currentObject.quantity * currentObject.value,
       sumInitialValue
     );
-    console.log(sumTotal);
 
     // -----------------------------------------------------------------------------
 
